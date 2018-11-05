@@ -1,3 +1,6 @@
+
+> **Note:** Proposed solution to an everyday problem for the 2018 creative task. I was accepted.
+
 ## Identified Problem
 Reading grocery labels is complicated and exhausting. How can it be improved to become more accessible, convenient and uncomplicated?  
 
