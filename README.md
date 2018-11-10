@@ -1,5 +1,5 @@
 
-> **Note:** Proposed solution to an everyday problem for the 2018 creative task. I was accepted.
+> **Note:** (This was my application to Hyper Island for 2018… Of course I got accepted.)
 
 ## Identified Problem
 Reading grocery labels is complicated and exhausting. How can it be improved to become more accessible, convenient and uncomplicated?  
