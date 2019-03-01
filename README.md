@@ -22,7 +22,7 @@ I then used these assumptions to create user story maps, to better understand th
 ## The Solution
 The findings that I gathered from my online user study and in-person user interviews led me to imagine a digital product that could tell if an item is consumable depending on a person's food preference.
 
-It would primarly be targeted to people with strict food restrictions. But could also be used for those who’d like to avoid certain chemicals or additives.
+It would primarily be targeted to people with strict food restrictions. But could also be used for those who’d like to avoid certain chemicals or additives.
 
 ### Defining a scanning system
 I conceived a scan system that could read the information of a grocery item (thanks to the barcode). This would allow the user to quickly find out if a product matches their requirements, without the hassle of having to read the label and trying to determine if it’s OK to consume.
@@ -47,8 +47,8 @@ It would work by matching the scanned product with similar products that are in 
 The application would also send out notifications to users based on their preferences. For example, gluten-free users would get notifications when products are on sale or when a new product is in-store. This would help brands find their target audience and allow them to market directly to them.
 
 ### A profile system that adapts
-According to my user study, 66,7% of people grocery shop for people other than themselves. I used this information to create a profile system that would adapt to different situations. For instance, a family might be looking to create a shared account. In constrast, a group of friends might be holding a dinner party and want to collect everyone’s information, making sure that no one is left with food that they can’t eat.
+According to my user study, 66,7% of people grocery shop for people other than themselves. I used this information to create a profile system that would adapt to different situations. For instance, a family might be looking to create a shared account. In contrast, a group of friends might be holding a dinner party and want to collect everyone’s information, making sure that no one is left with food that they can’t eat.
 
-Let’s use the second example to showcase how the system would work. You and your friends are planning a dinner party. You head to the grocery store but quickly discover that it’s difficult to keep everyone’s preferences in mind. So you go ahead and create a profile called “dinner party”, you click ‘share’ and get a unique 4 number code that you can send in your group chat. Your friends then enter it into the application and pick what profile to share with you. Now you have all of youfriends preferences collected into one place!
+Let’s use the second example to showcase how the system would work. You and your friends are planning a dinner party. You head to the grocery store but quickly discover that it’s difficult to keep everyone’s preferences in mind. So you go ahead and create a profile called “dinner party”, you click ‘share’ and get a unique 4 number code that you can send in your group chat. Your friends then enter it into the application and pick what profile to share with you. Now you have all of your friends preferences collected into one place!
 
 It also works in both personal and professional situations. For example, you could easily use it at a retirement home, kindergarten, or even at a company.
